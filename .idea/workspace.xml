@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb10d3b9-13b5-4c47-b7d3-be9301fa6772" name="Changes" comment="ITS Working! Equaliser for pads on MIDI(launchkey MK2 25)">
-      <change afterPath="$PROJECT_DIR$/аштв.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MIdi.py" beforeDir="false" afterPath="$PROJECT_DIR$/MIdi_eq/MIdi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midi_eq_visualizer/MIdi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midi_eq_visualizer/MIdi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/аштв.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
