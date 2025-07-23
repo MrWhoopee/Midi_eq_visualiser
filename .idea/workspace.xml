@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb10d3b9-13b5-4c47-b7d3-be9301fa6772" name="Changes" comment="ITS Working! Equaliser for pads on MIDI(launchkey MK2 25)">
+    <list default="true" id="eb10d3b9-13b5-4c47-b7d3-be9301fa6772" name="Changes" comment="Add Silence animation like a wave">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Midi_eq_visualizer/MIdi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midi_eq_visualizer/MIdi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/аштв.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +70,20 @@
       <option name="project" value="LOCAL" />
       <updated>1753272449031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Silence animation like a wave">
+      <option name="closed" value="true" />
+      <created>1753290576256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753290576256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ITS Working! Equaliser for pads on MIDI(launchkey MK2 25)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ITS Working! Equaliser for pads on MIDI(launchkey MK2 25)" />
+    <MESSAGE value="Add Silence animation like a wave" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Silence animation like a wave" />
   </component>
 </project>
