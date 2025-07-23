@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb10d3b9-13b5-4c47-b7d3-be9301fa6772" name="Changes" comment="Add Silence animation like a wave">
+    <list default="true" id="eb10d3b9-13b5-4c47-b7d3-be9301fa6772" name="Changes" comment="Dry upgrade">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Midi_eq_visualizer/MIdi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midi_eq_visualizer/MIdi.py" afterDir="false" />
     </list>
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MrWhoopee"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrWhoopee/Midi_eq_visualiser",
+    "accountId": "842adde4-525c-4b8c-9ecd-63941017ba09"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -78,12 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753290576256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dry upgrade">
+      <option name="closed" value="true" />
+      <created>1753291807675</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753291807675</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ITS Working! Equaliser for pads on MIDI(launchkey MK2 25)" />
     <MESSAGE value="Add Silence animation like a wave" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Silence animation like a wave" />
+    <MESSAGE value="Dry upgrade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dry upgrade" />
   </component>
 </project>
