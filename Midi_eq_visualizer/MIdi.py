@@ -96,7 +96,7 @@ class SilenceWaveAnimator:
 # ==== Config ====
 
 output_name = "MIDIOUT2 (Launchkey MIDI) 2"
-DEVICE_INDEX = 34
+DEVICE_INDEX = 7
 HYSTERESIS = 1
 
 zones = [
@@ -158,7 +158,6 @@ wave = RowWaveAnimator(
     outport=outport,
     color_range=(40, 60),
     interval=0.08)
-
 # wave = SilenceWaveAnimator(
 #     pads=pad_notes,
 #     outport=outport,
